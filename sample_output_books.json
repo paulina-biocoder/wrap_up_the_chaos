@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Ulysses",
+    "status": "Lent",
+    "person": "Jan",
+    "date": "04-02-2024"
+  },
+  {
+    "title": "One hundred years of solitude",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "In search of lost time",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "The great gatsby",
+    "status": "Lent",
+    "person": "Anna",
+    "date": "09-12-2023"
+  },
+  {
+    "title": "Moby dick",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Alice's adventures in wonderland",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the sorcerer's stone",
+    "status": "Read",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the chamber of secrets",
+    "status": "Read",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Murder on the orient express",
+    "status": "Lent",
+    "person": "Matylda kowalska",
+    "date": "02-01-2024"
+  },
+  {
+    "title": "The long way to a small, angry planet",
+    "status": "Read",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "The lion, the witch and the wardrobe",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Miss peregrine's home for peculiar children",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the prisoner of azkaban",
+    "status": "Read",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the goblet of fire",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the order of the phoenix",
+    "status": "Read",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the deathly hallows",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Drive your plow over the bones of the dead",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Harry potter and the half-blood prince",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "The man who mistook his wife for a hat and other clinical tales",
+    "status": "",
+    "person": "",
+    "date": ""
+  },
+  {
+    "title": "Purple hearts",
+    "status": "Borrowed",
+    "person": "Public library",
+    "date": "01-02-2024",
+    "deadline": "01-03-2024"
+  }
+]
